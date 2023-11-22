@@ -1,3 +1,3 @@
 module github.com/matinkhosravani/cloud-native-go-book-notes/vertical-sharding
 
-go 1.21.1
+go 1.21
